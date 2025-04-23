@@ -13,8 +13,7 @@ public class LinearMax {
     
                 }
             }
-            //this line will executed if none of the return statement above have executed.
-            //hence the target not found.
+           
             return max;
         }
     }
