@@ -1,8 +1,8 @@
 public class LinearSearch {
     public static void main(String[] args) {
-        int[] mylist = {1, 4, 7, 87, 45, 30, 47};
+        int[] Mylist = {1, 4, 7, 87, 45, 30, 47};
         int target = 87;
-        int answer = linear( mylist,  target); 
+        int answer = linear( Mylist,  target); 
         System.out.println(answer);
     }
     // to check the index of the target element
