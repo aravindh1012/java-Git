@@ -9,11 +9,9 @@ public class LinearMax {
                 
                 if(arr[i] >= max){
                     max = arr[i];
-                   
-    
                 }
             }
-           
+           //return maximum value of the array.
             return max;
         }
     }
