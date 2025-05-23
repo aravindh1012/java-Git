@@ -3,7 +3,7 @@ public class LeetcodeCyclesort {
   public static void main(String[] args) {
         // In cycle sort check the first index and move to correct index and swap it and repeat the process.
         int[] arr = {4,0,2, 1};
-        missingNum(arr);  
+        missingNum(arr);
         System.out.println(missingNum(arr));
        
         }

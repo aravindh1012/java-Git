@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class GoogleCycleSort {
+public class GoogleCycleSort{
      public static void main(String[] args) {
         // In cycle sort check the first index and move to correct index and swap it and repeat the process.
         int[] arr = {4,3,2,7,8,2,3,1};
