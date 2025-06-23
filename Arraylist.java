@@ -35,6 +35,6 @@ public class Arraylist {
 
     // print the array list
     System.out.println(list);
-    
+     
      }     
 }
