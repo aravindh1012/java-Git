@@ -5,4 +5,9 @@ public class AbsMain {
         // modify the data members
         obj.getNum();
     }
+
+    public int getNum() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'getNum'");
+    }
 }
